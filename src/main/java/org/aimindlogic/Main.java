@@ -9,7 +9,7 @@ public class Main {
         System.out.printf("Hello and welcome!");
         System.out.println("again we welcome" +
                 "all the new comers to our community");
-
+        System.out.println("we are happy to have you here");
 
     }
 }
